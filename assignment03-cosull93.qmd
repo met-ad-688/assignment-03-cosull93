@@ -1,0 +1,25 @@
+---
+title: Assignment 03
+author:
+  - name: Caroline O'Sullivan
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
+number-sections: true
+date: today
+format:
+  html:
+    theme: cerulean
+    toc: true
+    toc-depth: 2
+  docx: default
+  pdf: default
+date-modified: today
+date-format: long
+execute:
+  echo: true
+  eval: true
+  freeze: auto
+---
